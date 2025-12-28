@@ -12,6 +12,7 @@ This project evaluates the generalization of adversarial robustness. We compared
 We wanted to verify if high robustness scores on the leaderboard are due to "overfitting" to the specific pixels of CIFAR-10 or if they represent true security.
 # Technical SetupModels:
 We selected three models with different architectures and training dates:
+
 Bartoldson2024Adversarial_WRN-94-16 (Current Top 1).
 
 Rebuffi2021Fixing_70_16_cutmix_extra (Stable 2021 baseline).
