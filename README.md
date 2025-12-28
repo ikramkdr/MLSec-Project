@@ -1,8 +1,10 @@
 # MLSec-Project:
-# Adversarial Robustness: CIFAR-10 vs CIFAR-10.1Group Project
+# Adversarial Robustness: CIFAR-10 vs CIFAR-10.1
 ## Team
 KADRI Ikram _ 70/90/00692
+
 HOUACINE Yousra _ 70/90/00693
+
 AISSANI Rafik Yudas _ 70/30/00694
 
 # Overview
