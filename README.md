@@ -1,11 +1,11 @@
 # MLSec-Project:
 # Adversarial Robustness: CIFAR-10 vs CIFAR-10.1
 ## Team
-KADRI Ikram _ 70/90/00692
-
 HOUACINE Yousra _ 70/90/00693
 
 AISSANI Rafik Yudas _ 70/30/00694
+
+KADRI Ikram _ 70/90/00692
 
 # Overview
 This project evaluates the generalization of adversarial robustness. We compared State-of-the-Art (SOTA) models from RobustBench to see if their performance holds up on CIFAR-10.1, a newer test set designed to minimize distribution shift issues found in the original CIFAR-10.
